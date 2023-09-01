@@ -1,0 +1,212 @@
+{
+  "ads": [
+    {
+      "index": 0,
+      "contentType": "json",
+      "content": [
+        {
+          "id": "ad1_10048093871868364138",
+          "nid": "ad1_10048093871868364138",
+          "layout": "eshop_flow_live",
+          "tag": "广告",
+          "data": {
+            "mode": "ad",
+            "feed_floor_type": "1",
+            "title": "线下场地货主上门直播收料",
+            "resourceType": "dtVideo",
+            "videoWidth": "1140",
+            "videoHeight": "640",
+            "icon": "https://gips0.baidu.com/it/u=1236278044,35544898&fm=3012&app=3012&autime=1692605495&size=b200,200",
+            "source": "翠美汇翡翠",
+            "image": "https://nadecomimage.baidu.com/0/pic/551891791_2074085987_-467187878.jpg",
+            "video": "",
+            "duration": 0,
+            "status": "1",
+            "live_status": -1,
+            "room_id": "8550193704",
+            "advtag": 0,
+            "ad_tag": {
+              "text": "广告",
+              "text_color": "#8effffff",
+              "background_color": "#23b5b5b5"
+            },
+            "cmd": "__CMD_1__",
+            "leftslide_cmd": "__CMD_3__",
+            "username_cmd": "__CMD_4__",
+            "title_cmd": "__CMD_1__",
+            "prerender_scheme": "",
+            "prefetch_url_list": [],
+            "button_icon_exp_switch": "1",
+            "transform_to_portrait": [],
+            "charge_by_area_offline_ab_switch": "1",
+            "left_slide_request_click_url_switch": "0",
+            "adv_pos_strategy": {
+              "ad_control_first_floor": "4",
+              "ad_control_dynamic_time_interval": "5",
+              "ad_control_dynamic_interval_min": "3",
+              "ad_control_dynamic_interval_max": "3"
+            },
+            "tail_show": 0,
+            "tail_show_autoplay": 1,
+            "forbid_autoplay_next": 0,
+            "has_interaction_strategy": 0,
+            "author": {
+              "id": "",
+              "type": "1",
+              "name": "翠美汇翡翠",
+              "icon": "https://gips0.baidu.com/it/u=1236278044,35544898&fm=3012&app=3012&autime=1692605495&size=b200,200",
+              "cmd": "__CMD_1__",
+              "profileCmd": "__CMD_1__",
+              "intro": "",
+              "isOnlive": "0",
+              "liveRoomCmd": "__CMD_1__",
+              "vLevel": "0",
+              "sticky_color": "0",
+              "isFollow": "0",
+              "backgroundColor": "#4E6EF2"
+            },
+            "operate": {
+              "button": {
+                "cmd": "__CMD_2__"
+              }
+            },
+            "extra_info": {
+              "extraParams": {}
+            },
+            "videoInfo": {
+              "from": "feed_nad",
+              "page": "1692951473096",
+              "title": "线下场地货主上门直播收料",
+              "pageUrl": "http://mbd.baidu.com/webpage?type=live&action=liveshow&room_id=9999999999&bd_vid=nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v",
+              "vid": "ad1_10048093871868364138",
+              "duration": 0,
+              "posterImage": "https://p2.bdstatic.com/liveUpload/pc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg",
+              "autoSize": true,
+              "full_screen": 1,
+              "ext_log": {
+                "pd": "mini_video",
+                "pdRec": "feed",
+                "mt": 2,
+                "searchID": "1b69976d9a9598c5",
+                "vType": 2,
+                "tab": "fanhua",
+                "duration": 0,
+                "mtNew": "na",
+                "ad_extra_param": "__EXT_RENDER_AFD__",
+                "locid": "",
+                "isRec": 0,
+                "resourceType": "liveSoftAdVideo",
+                "curVid": "4455587074804902627",
+                "netType": 4,
+                "ad_ext": {
+                  "mid": "b4d5e73e",
+                  "tuid": "7564807",
+                  "ctk": "433698b13cb1db5e",
+                  "vid": "ssssssssssssssss",
+                  "logtype": 2,
+                  "timestamp": 1693558659,
+                  "nettype": 1,
+                  "pos": 1,
+                  "searchId": "1b69976d9a9598c5"
+                }
+              },
+              "ext": {
+                "clarityUrl": [
+                  {
+                    "key": "sd",
+                    "rank": 0,
+                    "title": "标清",
+                    "url": "http://flv.liveshow.lss-user.baidubce.com/live/stream_bduid_2444227380_8550193704-L3.flv",
+                    "width": 1140,
+                    "height": 640
+                  }
+                ],
+                "share": ""
+              }
+            },
+            "topToolBar": {
+              "search": {
+                "switch": "1",
+                "scheme": "baiduboxapp://v15/searchframe/searchbox?vtype=video&hint=%E6%90%9C%E7%B4%A2%E8%A7%86%E9%A2%91&extra=%7B%22sa_entrance_code%22%3A%22c%22%7D&pd=video&sebarstate=1"
+              }
+            },
+            "titleZone": {
+              "title": "线下场地货主上门直播收料"
+            },
+            "mix_live_type": 0,
+            "liveTagText": "直播中",
+            "isVerticalScreen": "1",
+            "liveInteract": {
+              "cmd": "__CMD_2__",
+              "text": "来看直播参与互动吧"
+            },
+            "liveEntrance": {
+              "cmd": "__CMD_1__",
+              "text": "点击进入直播间"
+            },
+            "extra_data": {
+              "ad_monitor_url": [
+                {
+                  "show_url": "",
+                  "click_url": "https://m.baidu.com/baidu.php?url=Kf0000jJH7wdrx-tzzGA2DFsi-sHWf7FRi6UbqC3o05mjxf-2OvYuN2aRIP8Kss_1NlkRNSLzgYHILtE-FbZ8Zo2xlxMoqJJzucwGqam4Qt9WJX5ix3SW1VQa0XMqucB6lPCyrU_FcdBY8M0kcvqCq0nCHKb3TBXHYfp-GpjHWreJzdtR16dsKXJPXK8Zs1a4XfY2qz8ag14uJhUkNWQlMnJChlR.DY_ipUeE2qM76wKsFEk_lbqlAWA-BBOlDqympjLwnRgOfhrGLKdhTeHz3hPheIugE3SPMudIw84XAGqe_ovm8gDkELeqSOxELeqOySe-SWDk7SOxSEtLet5lO1xVl34_ESEqTLetguSpEG3uEzY5dkxE4SBQtVa8QQuZJoOPYxhOUOdqbgeT5YwuIxjSUqS1l72s1f_TIOW_v20.U1Yk0ZDqYOZY4QHbzVUEeUU6zIb0IjvtvxHbVrHRoTJEkxJLC6KGUHYLnHb0u1Y0Iybq0ZKGujYk0APGujY1rjn0uA-b5H00UgfqnHmdrjf0mhnqnfKEIhsqn10snj0kQHD0TZ0qPHnvPWnsPHRzP0KYIgnqnWf1PjbYnjmsPWc1n1fznWf3P0Kzug7Y5HDvrHc3PjcYn104n1f0Tv-b5H7BPWb4P1ubryD4PHb3m1R0TA3qn0KET1Yz0ZIG5Hb4r0KhUWYkPW0LnjD3PNqWTZc0mLwo5Hf1n1m4rAcknvPBnywBPyR0IZRqP1RvPj6sPsK9uAP_mgP15H00IAYqmWwbPyRLnvR0myPGujYkPWmdrHfLPWn4PHTYnWfs0ZPbpdqv5fK1TL0q0Zwb5fKWpjY0UMwYTjY0mgKsgLPGujY0pgwV5fKVIZ-suHYk0A7bIZ-suHYkrjT0mgwspyfqn0KWTA-b5HDsnjD0TAkGujYkPWcYn1n1rH0drHRz0APCpyfq0A7sTZu85HD1QWfsQW08nH00IA735fKVIZnqnHmdrjf0UvPsm1Y1c1cWrj0WnHD1PWbsc1cLPWT3c1cLPWT3c1TYnjnWcznsQWbsnBnkQW0snanWc10WnWcWni3snanWc1nknjfkc10Wnankg10Wninsc10WPWn3Pznsc10WninkQW0sc1D8nj0sc1D8nj0sc108nj0sc108nj0sc108nj0sc1D8nj0Wnansc10WnankQW0sn7tsg1D8nj0sg1D8nj0sc10WnanscznzP1mLransg1D8nj0sg1Kxna3snjKxni3snjKxn7tsg1Kxna3snansc10Wn7tsg1Kxn7tsg1Kxna3snj0snjKxn7tkQW0snj0sn7tsg1D8nj0snj0sg1Kxn7tsQW0snj0sn7tsg1Kxna3snj0snjKxna3snj0snjKxn7tsg1Kxn7tsg1Kxni3snj0snjKxn7tsg1Kxnansg1Kxna3snj0snjKxn7tsg10Wn7tsg1Kxn7tsg1Kxni3snj0sg1Kxni3sn7tkQW0s0ZGJXjYs0ZGJXHYkQW0sn0KlpMCqni3snj00XhGY5HD8nj0s0ZGJm1YkQW0snj00mhbq0A-WIjYkPWbzPWb1nWRL0AuBTWYkQW6kn0KYTWcqn0KhUZDqn0KluLDqn0KluLcqni3snj00mgPG5H00uLFb5H00mvFY5H00mMPY5HKxn7tsg1Kxn7tsg1Kxna3sn7tsQW0s0APBT1YkPWbzPWbznWRdg1Kxn7tsg1csnj0znH0knHKxn7tznjnznHb0mMPB5H00ULmqnHc0TZfqn0KsULPGIA-EUWYs0ZKETv-Ypyq8gvPCmy4MuNqzuy71Uv3qnWR0ULFGgvdY5HDvPHmz0AdYgLKY5H00myPWIjY0uAPWujYYnj9AP1n4n1fvfW9DwDfzPbfzfWKKwDujnWRdfYRdPZkyy-ugPWwNHb60uAPzTjY0uANvIZ0q0ZP85fKsThqb5fKEmLKWgvk9m-q1IA7YIgnqn0KWIZcqP1mznfKdmhYqn0KBugnqnH0s0AqWTAPxmvkGmv_qnansc10Wnansc10Wni3snj0Wni3snj00uMw4TARqn0K9uZP8gLnqn0K9uZP8gv-15fKBUysqn0KVmynd5fKEmHYzPyPhujm3riYLn1DsQHw9rjbVmWmdnaY4m1b1P1bsmWFWPjT0mywWp1Ys0AkY5H00Tvnqn0Kvpyw-Uv-b5fKBugP_5H00pgPbUjYs0Aq_uAsqn0K_Uvmqn0KsThqMmywv5HD0mgP45H00mywsI1YknHfs0A7bTA6qPWfs0A-1TjdCmhc0pZP_u1Ys0jDqn00z5yPbrym1mW6zuyfdPvmvnWR0n1dyy-ugPWwNHb60PjdAHYDVfRssn00d5H00PWYs0jTqPHcYnW630j6qn0045fKsThqMgLw15HDsnjf3njb1rjTkrjm3n1mYnHn30ZKzUvIxTZnqrjbsrjD1nHf3P103PjmvnjRLn0KsThqMgLwG5HmdrHczPW0YnWRzn6KsThqMgLKG5HmdrHczPW0YnWRzP0KsmvbqnH0LP1bvnjT1rHcLn1fkPjTzrHm0mv-G5HmdrHcYnWc1PWfYP0K1ph6qnWRd0ZFzT1Ys0AF15HD0mgwY5HD0uyPk5H00mgNY5HKxn0KBIgw9u1Yk0AFWTjYs0A4-IjYY0ZFYmHYs0ZFYT1Ys0AqEmWYs0ZFBIjYs0ZFEmWYs0ZF-XjYs0AF9IjYvnHfv0ZK9UHYs0Aw1IjYd0AN1IjYs0A71TWY10AN1TWYz0A7GujYzPjfYnWcLn16s0AN1TjYzrjRzP1DsrH0kn6KMUgDqn0K1Uy_q0AFJpjY10A91T1Ys0A91uHYs0Au9IjYY0Au9pHY3rjc1PHRsnj0s0AkB5HKxn0KBmhnqn7tkQW0sg100mLFW5HRYPjDs&wd="
+                }
+              ]
+            },
+            "cmd_map": {
+              "default": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D",
+              "__CMD_1__": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D",
+              "__CMD_4__": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D",
+              "__CMD_6__": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D",
+              "__CMD_2__": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22invokePop%22%3A%7B%22pop_name%22%3A%22comment_input_panel_plugin%22%2C%22param%22%3A%7B%7D%7D%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D",
+              "__CMD_5__": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22invokePop%22%3A%7B%22pop_name%22%3A%22comment_input_panel_plugin%22%2C%22param%22%3A%7B%7D%7D%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D",
+              "__CMD_7__": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22invokePop%22%3A%7B%22pop_name%22%3A%22comment_input_panel_plugin%22%2C%22param%22%3A%7B%7D%7D%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D",
+              "__CMD_3__": "baiduboxapp://live/enterStreamRoom?params=%7B%22status%22%3A%220%22%2C%22screen%22%3A%220%22%2C%22source%22%3A%22video_head%22%2C%22ext%22%3A%7B%22ext%22%3A%7B%22source%22%3A%22bd_ads%22%2C%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%7D%2C%22extLog%22%3A%7B%22bd_vid%22%3A%22nHbLPHcLPWfsrjRLrHn4P16zrNtLnH-xnNt1nj0sg1PxPWR4nWcvnjfzPH0v%22%2C%22room_id%22%3A%228550193704%22%7D%2C%22roomId%22%3A%228550193704%22%2C%22roomType%22%3A0%2C%22template%22%3A%221%22%2C%22templateId%22%3A2%2C%22kabr_spts%22%3A-1800%2C%22multirate%22%3A%22%7B%5C%22p%5C%22%3A%5C%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2F%5C%22%2C%5C%22pr%5C%22%3A%5C%22%5C%22%2C%5C%22la%5C%22%3A%5B%7B%5C%22r%5C%22%3A1%2C%5C%22n%5C%22%3A%5C%22%E9%8F%8D%E5%9B%A8%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22540P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV540.flv%5C%22%2C%5C%22w%5C%22%3A540%2C%5C%22h%5C%22%3A960%2C%5C%22b%5C%22%3A800%7D%2C%7B%5C%22r%5C%22%3A2%2C%5C%22n%5C%22%3A%5C%22%E7%93%92%E5%91%AE%E7%AB%BB%5C%22%2C%5C%22ra%5C%22%3A%5C%22720P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV720.flv%5C%22%2C%5C%22w%5C%22%3A720%2C%5C%22h%5C%22%3A1280%2C%5C%22b%5C%22%3A1500%7D%2C%7B%5C%22r%5C%22%3A3%2C%5C%22n%5C%22%3A%5C%22%E9%92%83%E6%BF%86%E5%8E%9C%5C%22%2C%5C%22ra%5C%22%3A%5C%221080P%5C%22%2C%5C%22f%5C%22%3A%5C%22stream_bduid_2444227380_8550193704-LV1080.flv%5C%22%2C%5C%22w%5C%22%3A1080%2C%5C%22h%5C%22%3A1920%2C%5C%22b%5C%22%3A5000%7D%5D%7D%22%2C%22codec_id%22%3A%222%22%2C%22format%22%3A%22flv%22%2C%22cover%22%3A%22https%3A%2F%2Fp2.bdstatic.com%2FliveUpload%2Fpc_client_d57f007b694c4d6042bd5f8515309ac9.jpeg%22%2C%22avcUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%2C%22hevcUrl%22%3A%22%22%2C%22rtcUrl%22%3A%22%22%2C%22rtcHevcUrl%22%3A%22%22%2C%22playUrl%22%3A%22http%3A%2F%2Fflv.liveshow.lss-user.baidubce.com%2Flive%2Fstream_bduid_2444227380_8550193704-LV720.flv%3Fkabr_spts%3D-1800%22%7D"
+            },
+            "ad_extend": "{\"ad_info\":{\"meg_trade\":203219,\"mt_id\":16607,\"trans_type\":80},\"not_behind_live\":0,\"user_info\":{\"age\":6,\"gender\":1,\"level\":3,\"pid\":1}}"
+          },
+          "render_sbox": {
+            "sbox_switch": 4,
+            "baseInfo": {
+              "mts": [
+                16607
+              ]
+            },
+            "is_show_comment": "1"
+          }
+        }
+      ],
+      "type": "TLASP",
+      "cpid": 1001,
+      "sourceId": "6983",
+      "placeId": "1692951473096",
+      "mainMtId": 16607,
+      "tplId": "-",
+      "searchId": "1975276408579397829",
+      "tag": "shoubaiapp",
+      "probe": "-",
+      "spec": "",
+      "voyager": {
+        "deviceSize": null,
+        "eids": [],
+        "enames": [],
+        "pprs": [
+          "patchCleanClarityUrl",
+          "multiAreaCharge"
+        ],
+        "elasticTpl": null,
+        "feature": [
+          "isAndroid",
+          "isLiveMts",
+          "isSingleMt",
+          "isUseNewCommand",
+          "isHN",
+          "isReconstructedCmdMap",
+          "isUseUfoLP",
+          "isSeamlessLiving"
+        ],
+        "tpl": "8_2_16607_J_SRP"
+      },
+      "ad_rank": 0
+    }
+  ]
+}
