@@ -22,6 +22,7 @@ export default function MyApp(props: MyAppProps) {
           name="viewport"
           content="minimum-scale=1, initial-scale=1, width=device-width"
         />
+        {/*<meta http-equiv="Content-Security-Policy" content="default-src 'self'">*/}
       </Head>
       <ThemeProvider theme={theme}>
         <CssBaseline />
