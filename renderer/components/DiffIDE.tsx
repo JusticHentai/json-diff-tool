@@ -11,8 +11,8 @@ const DiffIde = () => {
 
   const onChange = (newValue) => {
     diffProcess(newValue[0], newValue[1])
+
     setDiffText(newValue)
-    console.log('change', newValue)
   }
 
   return (

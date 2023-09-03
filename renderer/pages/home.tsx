@@ -19,11 +19,20 @@ function Home() {
         <title>render-diff</title>
       </Head>
       <div css={[container, rootContainer]}>
-        <div css={[child[0], flexCenter(['justifyContent'])]}>
+        <div
+          css={[
+            {
+              height: '50px',
+            },
+            flexCenter(['justifyContent']),
+          ]}
+        >
           <Typography
             variant="h6"
             css={{
               color: '#121315',
+              position: 'absolute',
+              left: 0,
             }}
           >
             文件夹路径 / 文件名
