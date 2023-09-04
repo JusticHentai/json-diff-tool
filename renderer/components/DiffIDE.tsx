@@ -9,10 +9,16 @@ import diffProcess from '../utils/diff/process'
 const DiffIde = () => {
   const [diffText, setDiffText] = useState(['', ''])
 
-  const onChange = (newValue) => {
-    diffProcess(newValue[0], newValue[1])
+  // useEffect(() => {
+  //   diffProcess(diffText[0], diffText[1])
+  // }, [diffText])
 
+  const onChange = (newValue) => {
     setDiffText(newValue)
+
+    setTimeout(() => {
+      diffProcess(newValue[0], newValue[1])
+    }, 100)
   }
 
   return (

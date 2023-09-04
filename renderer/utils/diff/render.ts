@@ -2,9 +2,11 @@ import { Change } from 'diff'
 export default function render(lineDiffRes: Change[]) {
   const nodeList = getRenderDom()
 
-  getRenderRes(lineDiffRes)
+  // getRenderRes(lineDiffRes)
 
-  console.log(nodeList)
+  resetStyle()
+
+  addStyle(nodeList, lineDiffRes)
 }
 
 export type ChangeItem = {
@@ -66,4 +68,55 @@ function handleChange(currentChange: Change, nextChange: Change) {
 
     eachLine[behavior] = true
   }
+}
+
+enum DIFF_STYLE {
+  'REMOVED' = '#ebdaec',
+  'ADDED' = '#ceeedf',
+}
+
+function addStyle(nodeList: Element[], lineDiffRes: Change[]) {
+  const currentLine = [0, 0]
+
+  for (const change of lineDiffRes) {
+    if (!isChangeLine(change)) {
+      currentLine[0] += change.count
+      currentLine[1] += change.count
+
+      continue
+    }
+
+    const diffTree = change.added ? 1 : 0
+    const color = change.added ? DIFF_STYLE.ADDED : DIFF_STYLE.REMOVED
+
+    for (let i = 1; i <= change.count; i++) {
+      const current = i + currentLine[diffTree]
+
+      nodeList[diffTree].children[current - 1].style.backgroundColor = color
+
+      elementMap.set(nodeList[diffTree].children[current - 1], {
+        backgroundColor: color,
+      })
+    }
+
+    currentLine[diffTree] += change.count
+  }
+}
+
+const elementMap = new Map<
+  Element,
+  {
+    marginTop?: string
+    backgroundColor: string
+  }
+>()
+
+function resetStyle() {
+  for (const [key, value] of elementMap) {
+    for (const valueKey in value) {
+      key.style[valueKey] = 'transparent'
+    }
+  }
+
+  elementMap.clear()
 }

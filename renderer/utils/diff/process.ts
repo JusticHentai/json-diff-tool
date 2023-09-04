@@ -13,10 +13,10 @@ export default function diffProcess(json1: string, json2: string) {
 
   const lineDiffRes = diffLines(json1, json2)
 
-  console.log({
-    input: [json1, json2],
-    output: lineDiffRes,
-  })
+  // console.log({
+  //   input: [json1, json2],
+  //   output: lineDiffRes,
+  // })
 
   render(lineDiffRes)
 }
