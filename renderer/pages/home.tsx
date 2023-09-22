@@ -2,7 +2,6 @@
 
 import { Button, Typography } from '@mui/material'
 import Head from 'next/head'
-// import Ide from '../components/Ide'
 import DiffIde from '../components/DiffIDE'
 import { flex, flexCenter, rootContainer } from '../style'
 import right from '../style/right'

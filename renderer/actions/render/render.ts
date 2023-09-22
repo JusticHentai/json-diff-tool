@@ -1,8 +1,7 @@
 import { Change } from 'diff'
+
 export default function render(lineDiffRes: Change[]) {
   const nodeList = getRenderDom()
-
-  // getRenderRes(lineDiffRes)
 
   resetStyle()
 

@@ -2,23 +2,26 @@ import 'ace-builds/src-noconflict/ace'
 import 'ace-builds/src-noconflict/ext-language_tools'
 import 'ace-builds/src-noconflict/mode-json'
 import 'ace-builds/src-noconflict/theme-tomorrow'
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { diff as DiffEditor } from 'react-ace'
-import diffProcess from '../utils/diff/process'
+import diffProcess from '../actions/diff/process'
+import render from '../actions/render/render'
 
 const DiffIde = () => {
   const [diffText, setDiffText] = useState(['', ''])
+  const [diff, setDiff] = useState([])
 
-  // useEffect(() => {
-  //   diffProcess(diffText[0], diffText[1])
-  // }, [diffText])
+  useEffect(() => {
+    setTimeout(() => {
+      render(diff)
+    }, 100)
+  }, [diff])
 
   const onChange = (newValue) => {
-    setDiffText(newValue)
+    const { diff: diffLine, format } = diffProcess(newValue[0], newValue[1])
 
-    setTimeout(() => {
-      diffProcess(newValue[0], newValue[1])
-    }, 100)
+    setDiffText(format)
+    setDiff(diffLine)
   }
 
   return (
